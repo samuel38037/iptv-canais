@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SBT HD" tvg-name="Sbt SP HD" tvg-logo="http://dns.jserverstv.ml:80/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS | SBT",Sbt SP HD
-http://dns.fastuhd.online:80/04286291/69978869/173325
+#EXTINF:-1 tvg-id="" tvg-name="Clipes Gospel" tvg-logo="https://www.mkmusic.com.br/wp-content/uploads/2015/12/CAPA-FRENTE.jpg" group-title="CANAIS - Favoritos ",Clipes Gospel
+http://dns.fastuhd.online:80/04286291/69978869/172681
 #EXTINF:-1 tvg-id="" tvg-name="Clipes Gospel" tvg-logo="https://www.mkmusic.com.br/wp-content/uploads/2015/12/CAPA-FRENTE.jpg" group-title="CANAIS - Favoritos ",Clipes Gospel
 http://dns.fastuhd.online:80/04286291/69978869/172681
 #EXTINF:-1 tvg-id="" tvg-name="Aeroporto: Área Restrita" tvg-logo="https://lh3.googleusercontent.com/-5-e0jOCQxpI/X-zwrBOV9FI/AAAAAAAAIqI/2NS5eJaoHX08OHL8RgY6yu23OA1RhKrmgCLcBGAsYHQ/Aeroporto%2BArea%2BRestrita.png" group-title="CANAIS | SERIES 24HS",Aeroporto: Área Restrita
